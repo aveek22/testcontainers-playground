@@ -1,4 +1,4 @@
-package org.example;
+package com.github.aveek22;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
